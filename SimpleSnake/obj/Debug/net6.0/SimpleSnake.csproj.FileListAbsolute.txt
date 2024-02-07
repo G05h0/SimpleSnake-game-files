@@ -1,0 +1,15 @@
+C:\Users\Comp\source\repos\SimpleSnake\SimpleSnake\bin\Debug\net6.0\SimpleSnake.exe
+C:\Users\Comp\source\repos\SimpleSnake\SimpleSnake\bin\Debug\net6.0\SimpleSnake.deps.json
+C:\Users\Comp\source\repos\SimpleSnake\SimpleSnake\bin\Debug\net6.0\SimpleSnake.runtimeconfig.json
+C:\Users\Comp\source\repos\SimpleSnake\SimpleSnake\bin\Debug\net6.0\SimpleSnake.dll
+C:\Users\Comp\source\repos\SimpleSnake\SimpleSnake\bin\Debug\net6.0\SimpleSnake.pdb
+C:\Users\Comp\source\repos\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.csproj.AssemblyReference.cache
+C:\Users\Comp\source\repos\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.AssemblyInfo.cs
+C:\Users\Comp\source\repos\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.dll
+C:\Users\Comp\source\repos\SimpleSnake\SimpleSnake\obj\Debug\net6.0\refint\SimpleSnake.dll
+C:\Users\Comp\source\repos\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.pdb
+C:\Users\Comp\source\repos\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.genruntimeconfig.cache
+C:\Users\Comp\source\repos\SimpleSnake\SimpleSnake\obj\Debug\net6.0\ref\SimpleSnake.dll
