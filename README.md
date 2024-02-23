@@ -1,2 +1,2 @@
 # SimpleSnake-game-files
-Everybody have played the snake game in the nokias :D
+Everybody has played the snake game on the nokias :D
